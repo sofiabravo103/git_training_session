@@ -1,3 +1,4 @@
+rm -rf ~/bot_update || exit 1
 mkdir ~/bot_update || exit 1
 cd ~/bot_update || exit 1
 git clone git@github.com:sofiabravo103/git_training_session.git || exit 1
