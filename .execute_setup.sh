@@ -16,5 +16,5 @@ do
     git pull || exit 1
     git push || exit 1
     let "count++" || exit 1
-    sleep 300
+    sleep 120
 done
