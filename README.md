@@ -1,2 +1,2 @@
-# git_training_session
-Exercises for learning to use git
+# git training session
+Exercises to learn how to use basic git commands and concepts
