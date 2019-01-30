@@ -1,6 +1,8 @@
 week;box_counts;country;product_family
-;;;
 2018-W40;2500;DE;classic_box
 2018-W40;300;AT;classic_box
 2018-W41;2630;DE;classic_box
-2018-W50;20000;GB;classic_box
+2018-W50;300;GB;classic_box
+2018-W51;2500;GB;classic_box
+2018-W52;380;GB;classic_box
+2018-W53;20000;GB;classic_box
